@@ -11,3 +11,6 @@ This is a simple recipe website that displays recipes for Gulab Jamun and Burfi,
 ## Tech Stack
 - HTML
 - CSS
+  
+## Screenshots
+![Recipe Screenshot](Screenshot.jpeg.jpg)
